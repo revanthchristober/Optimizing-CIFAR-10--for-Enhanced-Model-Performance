@@ -30,8 +30,8 @@ project/
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/yourrepository.git
-    cd yourrepository
+    git clone https://github.com/revanthchristober/Optimizing-CIFAR-10--for-Enhanced-Model-Performance.git
+    cd Optimizing-CIFAR-10--for-Enhanced-Model-Performance
     ```
 
 2. Install the required packages:
